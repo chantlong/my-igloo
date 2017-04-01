@@ -26,7 +26,7 @@
 Legend
 |Key|Description|
 |---|---|
-|⌘|Command |
+|⌘|Command|
 |⌥|Option|
 |⇧|Shift|
 |⌃|Control|
