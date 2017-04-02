@@ -1,0 +1,43 @@
+/*
+  Edit this CSS file to change styles of the presentation.
+  If you need to revert it back, use the "Reset" button.
+*/
+
+/**
+* Text Cell
+*/
+
+.text-cell {
+  font-size: 22px;
+  font-family: 'Yrsa';
+  font-weight: 400;
+  line-height: 170%;
+}
+
+/**
+* Code Cell
+*/
+
+.code-cell {
+  font-size: 17px;
+  line-height: 140%;
+  font-family: 'Ubuntu Mono';
+}
+
+/**
+* Markdown Cell
+*/
+
+.markdown-cell {
+  font-family: 'Monaco';
+  font-size: 22px;
+}
+
+/**
+* LaTeX Cell
+*/
+
+.latex-cell {
+  font-size: 22px;
+}
+

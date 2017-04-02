@@ -1,0 +1,104 @@
+/*
+  Edit this CSS file to change styles of the editor.
+  If you need to revert it back, use the "Reset" button.
+*/
+
+/**
+* Text Cell
+*/
+
+.text-cell {
+  font-family: 'Operator Mono';
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 150%;
+}
+
+/**
+* Code Cell
+*/
+
+.code-cell .editor {
+  font-size: 14px;
+  line-height: 140%;
+  font-family: 'Operator Mono Light';
+}
+
+/**
+* LaTeX Cell
+*/
+
+.latex-cell .editor {
+  font-size: 12px;
+}
+
+/**
+* Markdown Cell
+*/
+
+.markdown-cell .ace_editor {
+  background-color: #FFFFFF;
+  color: #333;
+  font-size: 20px;
+  line-height: 1.5;
+  font-family: 'Operator Mono Light';
+}
+
+
+
+/* # Heading 1 */
+.markdown-cell .ace_heading.ace_1, .markdown-cell .ace_heading.ace_1 ~ .ace_heading {
+  color: #009BC7;
+}
+
+/* ## Heading 2 */
+.markdown-cell .ace_heading.ace_2, .markdown-cell .ace_heading.ace_2 ~ .ace_heading {
+  color: #009BC7;
+}
+
+/* ### Heading 3 */
+.markdown-cell .ace_heading.ace_3, .markdown-cell .ace_heading.ace_3 ~ .ace_heading {
+  color: #009BC7;
+}
+
+/* #### Heading 4 */
+.markdown-cell .ace_heading.ace_4, .markdown-cell .ace_heading.ace_4 ~ .ace_heading {
+  color: #009BC7;
+}
+
+/* ##### Heading 5 */
+.markdown-cell .ace_heading.ace_5, .markdown-cell .ace_heading.ace_5 ~ .ace_heading {
+  color: #009BC7;
+}
+
+/* ###### Heading 6 */
+.markdown-cell .ace_heading.ace_6, .markdown-cell .ace_heading.ace_6 ~ .ace_heading {
+  color: #009BC7;
+}
+
+/* `code` */
+.markdown-cell .ace_support.ace_function {
+  color: #888;
+}
+
+/* ordered list, unordered list */
+.markdown-cell .ace_list {
+  color: #6C6C6C;
+}
+
+/* blockquote */
+.markdown-cell .ace_blockquote {
+  color: #A1B1C1;
+}
+
+/* _emphasis_ */
+.markdown-cell .ace_emphasis {
+  color: #6C6C6C;
+  font-style: italic;
+}
+
+/* **strong** */
+.markdown-cell .ace_strong {
+  color: #000;
+}
+
