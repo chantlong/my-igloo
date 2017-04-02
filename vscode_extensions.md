@@ -23,10 +23,10 @@
 |⌘K M|Select Language|
 |⌘⇧V|Markdown Preview|
 
-Legend
+#### Legend
 |Key|Description|
 |---|---|
-|⌘|Command |
+|⌘|Command|
 |⌥|Option|
 |⇧|Shift|
 |⌃|Control|
