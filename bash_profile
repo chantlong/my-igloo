@@ -16,7 +16,7 @@ alias gu='git pull upstream master'
 alias gpush='git push origin master'
 alias gpull='git pull origin master'
 
-alias bashreload=". ~/.bash_profile"
+alias br=". ~/.bash_profile"
 
 alias hello="echo hello chant long!"
 
