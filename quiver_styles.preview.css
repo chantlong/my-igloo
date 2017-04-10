@@ -8,8 +8,8 @@
 */
 
 .text-cell {
-  font-family: 'Operator Mono Light';
-  font-weight: 400;
+  font-family: 'Operator Mono';
+  font-weight: 300;
   font-size: 14px;
   line-height: 140%;
 }
@@ -21,7 +21,8 @@
 .code-cell {
   font-size: 15px;
   line-height: 140%;
-  font-family: 'Operator Mono Light';
+  font-family: 'Operator Mono';
+  font-weight: 300;
 }
 
 /**
@@ -29,7 +30,7 @@
 */
 
 .markdown-cell {
-  font-family: 'Operator Mono Light';
+  font-family: 'Operator Mono';
   font-weight: 300;
   font-size: 14px;
   line-height: 200%;
@@ -42,4 +43,5 @@
 .latex-cell {
   font-size: 14px;
 }
+
 
